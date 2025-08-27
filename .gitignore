@@ -4,4 +4,3 @@ terraform.tfstate.backup
 terraform.tfvars
 .terraform.lock.hcl
 internal-gcp-ca.pem
-internal-gcp-ca.pem
