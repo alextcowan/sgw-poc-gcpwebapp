@@ -1,0 +1,4 @@
+project_id = "cep-project-429502"
+dns_zone_name = "gcp.securebrowsing.cloud"
+hostname = "pwa"
+zone = "us-central1-a"
